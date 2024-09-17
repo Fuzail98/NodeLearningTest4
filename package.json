@@ -4,7 +4,8 @@
 	"description": "A REST API project, part of Free Code Camp's curriculum",
 	"main": "index.js",
 	"scripts": {
-		"start": "node --watch index.js"
+		"start": "node --watch index.js",
+		"start5": "node --watch indexTest5.js"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
